@@ -6,6 +6,7 @@ public class Customer {
     private String lastName;
     private String email;
     private int age;
+    private int a;
 
     public Customer() {
     }
